@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Language Test</string>
+    <string name="text_to_display">Text to display</string>
+    <string name="language_en">English</string>
+    <string name="language_fr">French</string>
+
+    <string name="with_card_fee">(With %1$.2f card fee)</string>
+    <string name="device_time_out_of_sync">Device time is out of sync with the server. Please correct phone time to %1$s. App will now shut down</string>
+    <string name="sale_balance">SALE:%1$s BALANCE:%2$s</string>
+    <string name="event_name_not_found_placeholder">Event not found with id - %1$d</string>
+    <string name="square_error_placeholder_error_code_description">Square Error: %1$d - %2$s</string>
+    <string name="change_language">Change language</string>
+</resources>

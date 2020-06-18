@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test de langue</string>
+    <string name="text_to_display">Texte à afficher</string>
+    <string name="language_en">Anglais</string>
+    <string name="language_fr">Français</string>
+
+    <string name="change_language">Changer de langue</string>
+</resources>
